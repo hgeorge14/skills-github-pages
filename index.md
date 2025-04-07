@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+Heather George
+
+Whiting School of Engineering
+
+Johns Hopkins University
+
 ---
 
